@@ -2406,7 +2406,7 @@
         "difficulty": "very hard",
         "chractersUsed": "numbers" ," lowercase" ," uppercase","special symbol"",
         "Password": "1230asuddDGB#$2"
-    }
+    },
     {
         "id": 184,
         "difficulty": "very hard",
@@ -2414,9 +2414,16 @@
         "Password": "hkjkjhkjGUI@$#^&2937460"
     },
     {
+
        "id": 321,
        "difficulty":"Medium",
        "chractersUsed":"4characters,4special_Symbol",
        "Password":"a%h&f#v^"
-    },
+},{
+        "id": 185,
+        "difficulty": "hard",
+        "charactersUsed": "numbers", "lowercase", "uppercase", "special symbol",
+        "Password": "aslkdfaj234S2@adf23k@sdflsj3#"
+
+    }
 ]
