@@ -2388,4 +2388,11 @@
         "chractersUsed": "numbers + characters + special symbols",
         "Password": "ABbcfr@2930"
     },
+    {
+       "id":181,
+       "difficulty":"Difficult",
+       "chractersUsed":"numbers" ," lowercase" ," uppercase","special symbol",
+       "Password":"A@namuni2345"
+  
+   }
 ]
