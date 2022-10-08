@@ -2394,5 +2394,11 @@
        "chractersUsed":"numbers" ," lowercase" ," uppercase","special symbol",
        "Password":"A@namuni2345"
   
-   }
+   },
+{
+        "id": 182,
+        "difficulty": "very hard",
+        "chractersUsed": "numbers + characters + special symbols",
+        "Password": "ABbcfhhhbjkmkr@2937460"
+    }
 ]
