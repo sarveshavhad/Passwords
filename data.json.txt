@@ -2400,6 +2400,12 @@
         "difficulty": "very hard",
         "chractersUsed": "numbers + characters + special symbols",
         "Password": "ABbcfhhhbjkmkr@2937460"
+    },
+    {
+        "id": 183,
+        "difficulty": "very hard",
+        "chractersUsed": "numbers" ," lowercase" ," uppercase","special symbol"",
+        "Password": "1230asuddDGB#$2"
     }
     {
         "id": 183,
