@@ -2439,5 +2439,15 @@
         "charactersUsed": "numbers", "lowercase", "uppercase", "special symbol",
         "Password": "aslkdfaj234S2@adf23k@sdflsj3wewec#"
 
+    },
+     {
+        "id": 201,
+        "difficulty": "Hard",
+        "charactersUsed": [
+            "alphabets",
+            "numbers",
+            "characters"
+        ],
+        "Password": "LjsadiupwK@6767"
     }
 ]
