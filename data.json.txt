@@ -2439,5 +2439,12 @@
         "charactersUsed": "numbers", "lowercase", "uppercase", "special symbol",
         "Password": "aslkdfaj234S2@adf23k@sdflsj3wewec#"
 
-    }
+    },
+    {
+        "id": 188,
+        "difficulty": "hard",
+        "charactersUsed": "numbers", "lowercase", "uppercase", "special symbol",
+        "Password": "bjkfssdankl%234AKL00/]"
+
+    },
 ]
