@@ -2439,5 +2439,11 @@
         "charactersUsed": "numbers", "lowercase", "uppercase", "special symbol",
         "Password": "aslkdfaj234S2@adf23k@sdflsj3wewec#"
 
+    },
+    {
+        "id": 188,
+        "difficulty": "easy",
+        "chractersUsed": "numbers, lowercase characters, special symbols",
+        "Password": "maga2020!"
     }
 ]
