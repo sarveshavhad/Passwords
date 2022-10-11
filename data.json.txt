@@ -2415,64 +2415,64 @@
     },
     {
 
-       "id": 321,
+       "id": 185,
        "difficulty":"Medium",
        "chractersUsed":"4characters,4special_Symbol",
        "Password":"a%h&f#v^"
 },
     {
-        "id": 322,
+        "id": 186,
         "difficulty": "Medium",
         "chractersUsed": "characters + special symbols + numbers",
         "Password": "Myname.Websitename@123"
     },
 {
-        "id": 185,
+        "id": 187,
         "difficulty": "hard",
         "charactersUsed": "numbers", "lowercase", "uppercase", "special symbol",
         "Password": "aslkdfaj234S2@adefwf23k@sdflsj3#"
 
     },
     {
-        "id": 186,
+        "id": 189,
         "difficulty": "hard",
         "charactersUsed": "numbers", "lowercase", "uppercase", "special symbol",
         "Password": "aslkdfaj234S2@adf23k@sdflsj3#23efc"
 
     },
     {
-        "id": 187,
+        "id": 190,
         "difficulty": "hard",
         "charactersUsed": "numbers", "lowercase", "uppercase", "special symbol",
         "Password": "aslkdfaj234S2@adf23k@sdflsj3wewec#"
     },
     {
-        "id": 189,
+        "id": 191,
         "difficulty": "hard",
         "chractersUsed": "special symbol","alphabet","numbers",
         "Password": "vimal@126"
     },
     {
-        "id": 188,
+        "id": 192,
         "difficulty": "hard",
         "charactersUsed": "numbers", "lowercase", "uppercase", "special symbol",
         "Password": "bdzbkj234S2@adf23k@rtsdflsj3wewec#"
 
     },
     {
-        "id": 188,
+        "id": 193,
         "difficulty": "hard",
         "chractersUsed": "characters", "special symbol",
         "Password": "mmhgvhjvgsrgh#plwdf@pouhg#@mldcgujrdg"
     },
      {
-        "id": 188,
+        "id": 194,
         "difficulty": "hard",
         "charactersUsed": "numbers", "lowercase", "uppercase", "special symbol",
         "Password": "qwertyuioplkjh@12345?/';'afshahs"
     },  
      {
-        "id": 201,
+        "id": 195,
         "difficulty": "Hard",
         "charactersUsed": [
             "alphabets",
@@ -2482,32 +2482,32 @@
         "Password": "LjsadiupwK@6767"
 ],
     {
-        "id": 188,
+        "id": 196,
         "difficulty": "hard",
         "charactersUsed": "numbers", "lowercase", "uppercase", "special symbol",
         "Password": "bjkfssdankl%234AKL00/]"
 
     },
     {
-        "id": 189,
+        "id": 197,
         "difficulty": "easy",
         "chractersUsed": "numbers, lowercase characters, special symbols",
         "Password": "maga2020!"
     },
     {
-        "id": 190,
+        "id": 198,
         "difficulty": "hard",
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "aLbert@hwking"
     },
     {
-        "id": 191,
+        "id": 199,
         "difficulty": "hard",
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "HarshHack@iiits.in21"
     },
     {
-        "id": 191,
+        "id": 200,
         "difficulty": "medium",
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "sn00pdoggyd0G"
