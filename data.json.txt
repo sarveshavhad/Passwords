@@ -2419,7 +2419,14 @@
        "difficulty":"Medium",
        "chractersUsed":"4characters,4special_Symbol",
        "Password":"a%h&f#v^"
-},{
+},
+    {
+        "id": 322,
+        "difficulty": "Medium",
+        "chractersUsed": "characters + special symbols + numbers",
+        "Password": "Myname.Websitename@123"
+    },
+{
         "id": 185,
         "difficulty": "hard",
         "charactersUsed": "numbers", "lowercase", "uppercase", "special symbol",
@@ -2438,13 +2445,71 @@
         "difficulty": "hard",
         "charactersUsed": "numbers", "lowercase", "uppercase", "special symbol",
         "Password": "aslkdfaj234S2@adf23k@sdflsj3wewec#"
-
-    }
-
+    },
     {
         "id": 189,
         "difficulty": "hard",
         "chractersUsed": "special symbol","alphabet","numbers",
         "Password": "vimal@126"
+    },
+    {
+        "id": 188,
+        "difficulty": "hard",
+        "charactersUsed": "numbers", "lowercase", "uppercase", "special symbol",
+        "Password": "bdzbkj234S2@adf23k@rtsdflsj3wewec#"
+
+    },
+    {
+        "id": 188,
+        "difficulty": "hard",
+        "chractersUsed": "characters", "special symbol",
+        "Password": "mmhgvhjvgsrgh#plwdf@pouhg#@mldcgujrdg"
+    },
+     {
+        "id": 188,
+        "difficulty": "hard",
+        "charactersUsed": "numbers", "lowercase", "uppercase", "special symbol",
+        "Password": "qwertyuioplkjh@12345?/';'afshahs"
+    },  
+     {
+        "id": 201,
+        "difficulty": "Hard",
+        "charactersUsed": [
+            "alphabets",
+            "numbers",
+            "characters"
+        ],
+        "Password": "LjsadiupwK@6767"
+],
+    {
+        "id": 188,
+        "difficulty": "hard",
+        "charactersUsed": "numbers", "lowercase", "uppercase", "special symbol",
+        "Password": "bjkfssdankl%234AKL00/]"
+
+    },
+    {
+        "id": 189,
+        "difficulty": "easy",
+        "chractersUsed": "numbers, lowercase characters, special symbols",
+        "Password": "maga2020!"
+    },
+    {
+        "id": 190,
+        "difficulty": "hard",
+        "charactersUsed": "lowercase", "uppercase", "special symbol",
+        "Password": "aLbert@hwking"
+    },
+    {
+        "id": 191,
+        "difficulty": "hard",
+        "charactersUsed": "lowercase", "uppercase", "special symbol",
+        "Password": "HarshHack@iiits.in21"
+    },
+    {
+        "id": 191,
+        "difficulty": "medium",
+        "charactersUsed": "lowercase", "uppercase", "special symbol",
+        "Password": "sn00pdoggyd0G"
     },
 ]
