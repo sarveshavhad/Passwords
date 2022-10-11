@@ -2449,15 +2449,23 @@
     },
     {
         "id": 188,
+
+        "difficulty": "hard",
+        "charactersUsed": "numbers", "lowercase", "uppercase", "special symbol",
+        "Password": "bjkfssdankl%234AKL00/]"
+
+    },
+  { "id": 189,
         "difficulty": "easy",
         "chractersUsed": "numbers, lowercase characters, special symbols",
         "Password": "maga2020!"
-    }
+    },
     {
-        "id": 188,
+        "id": 190,
         "difficulty": "hard",
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "aLbert@hwking"
 
     }
+
 ]
