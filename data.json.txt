@@ -2445,7 +2445,12 @@
         "difficulty": "hard",
         "charactersUsed": "numbers", "lowercase", "uppercase", "special symbol",
         "Password": "aslkdfaj234S2@adf23k@sdflsj3wewec#"
-
+    },
+    {
+        "id": 189,
+        "difficulty": "hard",
+        "chractersUsed": "special symbol","alphabet","numbers",
+        "Password": "vimal@126"
     },
     {
         "id": 188,
