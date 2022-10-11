@@ -2419,7 +2419,14 @@
        "difficulty":"Medium",
        "chractersUsed":"4characters,4special_Symbol",
        "Password":"a%h&f#v^"
-},{
+},
+    {
+        "id": 322,
+        "difficulty": "Medium",
+        "chractersUsed": "characters + special symbols + numbers",
+        "Password": "Myname.Websitename@123"
+    },
+{
         "id": 185,
         "difficulty": "hard",
         "charactersUsed": "numbers", "lowercase", "uppercase", "special symbol",
@@ -2440,6 +2447,7 @@
         "Password": "aslkdfaj234S2@adf23k@sdflsj3wewec#"
 
     },
+
      {
         "id": 201,
         "difficulty": "Hard",
@@ -2449,5 +2457,27 @@
             "characters"
         ],
         "Password": "LjsadiupwK@6767"
+],
+    {
+        "id": 188,
+
+        "difficulty": "hard",
+        "charactersUsed": "numbers", "lowercase", "uppercase", "special symbol",
+        "Password": "bjkfssdankl%234AKL00/]"
+
+    },
+  { "id": 189,
+        "difficulty": "easy",
+        "chractersUsed": "numbers, lowercase characters, special symbols",
+        "Password": "maga2020!"
+    },
+    {
+        "id": 190,
+        "difficulty": "hard",
+        "charactersUsed": "lowercase", "uppercase", "special symbol",
+        "Password": "aLbert@hwking"
+
+
     }
+
 ]
