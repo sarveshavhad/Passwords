@@ -2447,7 +2447,12 @@
         "Password": "aslkdfaj234S2@adf23k@sdflsj3wewec#"
 
     },
-
+     {
+        "id": 188,
+        "difficulty": "hard",
+        "charactersUsed": "numbers", "lowercase", "uppercase", "special symbol",
+        "Password": "qwertyuioplkjh@12345?/';'afshahs"
+    },  
      {
         "id": 201,
         "difficulty": "Hard",
