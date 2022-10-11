@@ -2471,7 +2471,8 @@
         "Password": "bjkfssdankl%234AKL00/]"
 
     },
-  { "id": 189,
+    {
+        "id": 189,
         "difficulty": "easy",
         "chractersUsed": "numbers, lowercase characters, special symbols",
         "Password": "maga2020!"
@@ -2484,9 +2485,14 @@
     },
     {
         "id": 191,
+        "difficulty": "hard",
+        "charactersUsed": "lowercase", "uppercase", "special symbol",
+        "Password": "HarshHack@iiits.in21"
+    },
+    {
+        "id": 191,
         "difficulty": "medium",
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "sn00pdoggyd0G"
     },
-
 ]
