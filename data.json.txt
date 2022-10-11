@@ -2450,6 +2450,13 @@
     {
         "id": 188,
         "difficulty": "hard",
+        "charactersUsed": "numbers", "lowercase", "uppercase", "special symbol",
+        "Password": "bdzbkj234S2@adf23k@rtsdflsj3wewec#"
+
+    },
+    {
+        "id": 188,
+        "difficulty": "hard",
         "chractersUsed": "characters", "special symbol",
         "Password": "mmhgvhjvgsrgh#plwdf@pouhg#@mldcgujrdg"
     },
@@ -2471,7 +2478,6 @@
 ],
     {
         "id": 188,
-
         "difficulty": "hard",
         "charactersUsed": "numbers", "lowercase", "uppercase", "special symbol",
         "Password": "bjkfssdankl%234AKL00/]"
