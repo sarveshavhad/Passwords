@@ -2447,6 +2447,22 @@
         "Password": "aslkdfaj234S2@adf23k@sdflsj3wewec#"
 
     },
+     {
+        "id": 188,
+        "difficulty": "hard",
+        "charactersUsed": "numbers", "lowercase", "uppercase", "special symbol",
+        "Password": "qwertyuioplkjh@12345?/';'afshahs"
+    },  
+     {
+        "id": 201,
+        "difficulty": "Hard",
+        "charactersUsed": [
+            "alphabets",
+            "numbers",
+            "characters"
+        ],
+        "Password": "LjsadiupwK@6767"
+],
     {
         "id": 188,
 
@@ -2466,14 +2482,17 @@
         "difficulty": "hard",
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "aLbert@hwking"
-
-    }
+    },
     {
         "id": 191,
         "difficulty": "hard",
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "HarshHack@iiits.in21"
-
-    }
-
+    },
+    {
+        "id": 191,
+        "difficulty": "medium",
+        "charactersUsed": "lowercase", "uppercase", "special symbol",
+        "Password": "sn00pdoggyd0G"
+    },
 ]
