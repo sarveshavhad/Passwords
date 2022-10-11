@@ -2466,6 +2466,12 @@
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "aLbert@hwking"
 
+    },
+    {
+        "id": 191,
+        "difficulty": "medium",
+        "charactersUsed": "lowercase", "uppercase", "special symbol",
+        "Password": "sn00pdoggyd0G"
     }
 
 ]
