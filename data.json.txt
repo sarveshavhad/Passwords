@@ -2512,4 +2512,40 @@
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "sn00pdoggyd0G"
     },
+    {
+        "id": 201,
+        "difficulty": "very easy",
+        "charactersUsed": "lowercase", "uppercase",
+        "Password": "Password"
+    },
+    {
+        "id": 202,
+        "difficulty": "medium",
+        "charactersUsed": "lowercase", "uppercase", "special symbol",
+        "Password": "Rick@Astley"
+    },
+    {
+        "id": 203,
+        "difficulty": "hard",
+        "charactersUsed": "lowercase", "uppercase", "special symbol",
+        "Password": "CH33Z3@F4RT@_"
+    },
+    {
+        "id": 204,
+        "difficulty": "easy",
+        "charactersUsed": "lowercase", "uppercase", "special symbol",
+        "Password": "Bill_Gates"
+    },
+    {
+        "id": 205,
+        "difficulty": "easy",
+        "charactersUsed": "lowercase", "uppercase", "special symbol",
+        "Password": "Hulk_Smash"
+    },
+    {
+        "id": 206,
+        "difficulty": "easy",
+        "charactersUsed": "lowercase", "uppercase", "special symbol",
+        "Password": "xX_name_Xx"
+    },
 ]
