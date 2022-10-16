@@ -2518,4 +2518,10 @@
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "Spoof@22"
     },
+     {
+        "id": 202,
+        "difficulty": "medium",
+        "charactersUsed": "lowercase", "uppercase", "special symbol",
+        "Password": "loud@me333"
+    },
 ]
