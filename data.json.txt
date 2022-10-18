@@ -2518,11 +2518,19 @@
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "Spoof@22"
     },
-        {
+
+     {
         "id": 202,
+        "difficulty": "medium",
+        "charactersUsed": "lowercase", "uppercase", "special symbol",
+        "Password": "loud@me333"
+
+        {
+        "id": 203,
         "difficulty": "hard",
         "chractersUsed": "numbers", "uppercase", "special characters", "lowercase",
         "Password": "87UIOER@#pqso"
+
     },
     {
         "id": 203,
@@ -2571,5 +2579,17 @@
         "difficulty": "hard",
         "charactersUsed": "lowercase", "uppercase", "special characters", "numbers",
         "Password": "Elliot@Anonymous2022"
-    }
+   },
+     {
+        "id": 3,
+        "difficulty": "medium",
+        "chractersUsed": "special char , num,Uppercase & Lowercase",
+        "Password": "RaHul12fdkdfhdkjfhkdhgkjhfkghkfghfm3"
+        },
+    {
+        "id": 204,
+        "difficulty": "very easy",
+        "chractersUsed": "numbers",
+        "Password": "skjdhk@$264786":"./5678"
+    },
 ]
