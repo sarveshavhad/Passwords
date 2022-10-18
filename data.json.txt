@@ -2532,6 +2532,12 @@
         "Password": "87UIOER@#pqso"
 
     },
+     {
+        "id": 3,
+        "difficulty": "medium",
+        "chractersUsed": "special char , num,Uppercase & Lowercase",
+        "Password": "RaHul12fdkdfhdkjfhkdhgkjhfkghkfghfm3"
+        },
     {
         "id": 204,
         "difficulty": "very easy",
