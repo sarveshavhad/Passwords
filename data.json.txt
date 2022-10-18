@@ -2516,14 +2516,14 @@
         "id": 201,
         "difficulty": "medium",
         "charactersUsed": "lowercase", "uppercase", "special symbol",
-        "Password": "Spoof@22"
+        "Password": "@vEngeRs"
     },
-
-     {
+    {
         "id": 202,
         "difficulty": "medium",
         "charactersUsed": "lowercase", "uppercase", "special symbol",
         "Password": "loud@me333"
+        }
 
         {
         "id": 203,
