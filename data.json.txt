@@ -2532,6 +2532,54 @@
         "Password": "87UIOER@#pqso"
 
     },
+    {
+        "id": 203,
+        "difficulty": "medium",
+        "charactersUsed": "lowercase", "uppercase",
+        "Password": "ARMYrOcK"
+    },
+    {
+        "id": 204,
+        "difficulty": "hard",
+        "charactersUsed": "lowercase", "uppercase", "special characters", "numbers",
+        "Password": "Mega@King459"
+    },
+    {
+        "id": 205,
+        "difficulty": "hard",
+        "charactersUsed": "lowercase", "uppercase", "special characters", "numbers",
+        "Password": "This_is_my_Password@200"
+    },
+    {
+        "id": 206,
+        "difficulty": "hard",
+        "charactersUsed": "lowercase", "uppercase", "special characters", "numbers",
+        "Password": "HiGuys$231"
+    },
+    {
+        "id": 207,
+        "difficulty": "hard",
+        "charactersUsed": "lowercase", "uppercase", "special characters", "numbers",
+        "Password": "Anonymous$2020"
+    },
+    {
+        "id": 208,
+        "difficulty": "hard",
+        "charactersUsed": "lowercase", "uppercase", "special characters", "numbers",
+        "Password": "My_Name_Is_Khan@2022"
+    },
+    {
+        "id": 209,
+        "difficulty": "hard",
+        "charactersUsed": "lowercase", "uppercase", "special characters", "numbers",
+        "Password": "HelloAnonymous@2022"
+    },
+    {
+        "id": 210,
+        "difficulty": "hard",
+        "charactersUsed": "lowercase", "uppercase", "special characters", "numbers",
+        "Password": "Elliot@Anonymous2022"
+   },
      {
         "id": 3,
         "difficulty": "medium",
@@ -2543,5 +2591,5 @@
         "difficulty": "very easy",
         "chractersUsed": "numbers",
         "Password": "skjdhk@$264786":"./5678"
-    }
+    },
 ]
