@@ -2514,6 +2514,12 @@
     },
     {
         "id": 201,
+        "difficulty": "medium",
+        "charactersUsed": "lowercase", "uppercase", "special symbol",
+        "Password": "/\/1dhi"
+    },
+    {
+        "id": 201,
         "difficulty": "very easy",
         "charactersUsed": "lowercase", "uppercase",
         "Password": "Password"
